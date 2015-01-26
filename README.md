@@ -1,2 +1,2 @@
 # MapLocation
-This was done for [](http://jqalert.com/) blog entry. 
+This was done for [this](http://dniswhite.com/?p=220) blog entry. 
